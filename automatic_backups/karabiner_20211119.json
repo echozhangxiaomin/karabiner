@@ -157,6 +157,16 @@
                 },
                 {
                     "from": {
+                        "key_code": "escape"
+                    },
+                    "to": [
+                        {
+                            "key_code": "caps_lock"
+                        }
+                    ]
+                },
+                {
+                    "from": {
                         "key_code": "left_command"
                     },
                     "to": [
@@ -172,6 +182,16 @@
                     "to": [
                         {
                             "key_code": "left_command"
+                        }
+                    ]
+                },
+                {
+                    "from": {
+                        "key_code": "left_option"
+                    },
+                    "to": [
+                        {
+                            "key_code": "left_option"
                         }
                     ]
                 }
